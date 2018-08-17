@@ -15,5 +15,12 @@ Link to my homework
    Group_task: Link group:      https://codepen.io/denn1sam/pen/MBRqQq   
                Link My button:  https://rawgit.com/Boban7/group_task_02/master/group_task/postcard/index.html
                
-6. JS-intro/ task1:  https://rawgit.com/Boban7/fl-9/master/FE_9_6_homework_js-intro/homework/src/task1.html
-             task2:  https://rawgit.com/Boban7/fl-9/master/FE_9_6_homework_js-intro/homework/src/task2.html
+6. JS-intro/ 
+      task1:  https://rawgit.com/Boban7/fl-9/master/FE_9_6_homework_js-intro/homework/src/task1.html
+      task2:  https://rawgit.com/Boban7/fl-9/master/FE_9_6_homework_js-intro/homework/src/task2.html
+             
+7. JS-control-flow/
+      task1:  https://rawgit.com/Boban7/fl-9/master/FE_9_7_homework_control-flow/homework/src/task1.html
+      task2:  https://rawgit.com/Boban7/fl-9/master/FE_9_7_homework_control-flow/homework/src/task2.html
+             
+             
