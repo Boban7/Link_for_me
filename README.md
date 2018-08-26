@@ -22,5 +22,9 @@ Link to my homework
 7. JS-control-flow/
       task1:  https://rawgit.com/Boban7/fl-9/master/FE_9_7_homework_control-flow/homework/src/task1.html
       task2:  https://rawgit.com/Boban7/fl-9/master/FE_9_7_homework_control-flow/homework/src/task2.html
+      
+8. JS-functions:
+      https://rawgit.com/Boban7/fl-9/tree/master/FE_9_8_homework_functions/homework/src
+      Link for demo: https://rawgit.com/Boban7/Link_for_me/master/FE_9_8_homework_functions/homework/index.html
              
-             
+9. JS-data-types:
