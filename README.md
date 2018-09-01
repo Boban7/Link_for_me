@@ -29,3 +29,6 @@ Link to my homework
              
 9. JS-data-types:
       https://rawgit.com/Boban7/fl-9/master/FE_9_9_homework_data-types/homework/index.html
+     
+10. JS-scope-context:
+      https://rawgit.com/Boban7/Link_for_me/master/FE_9_10_homework_scope-context/homework/src/credits_handler.js
