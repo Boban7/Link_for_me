@@ -1,4 +1,6 @@
-// 1)
+//  COPY/PASTE ALL THIS IN CONSOLE & 
+//                                   comment/uncomment  -  1)RUN  /  2)RUN
+// 1) Task
 function userCard(index) {
 
   let key = index,
@@ -64,7 +66,8 @@ function userCard(index) {
   }
 }
 
-/*const card1 = userCard(1);
+// 1) RUN
+const card1 = userCard(1);
 card1.putCredits(100);
 card1.putCredits(50);
 card1.putCredits(10);
@@ -76,10 +79,10 @@ console.log(card1.getCardOptions());
 const card3 = userCard(3);
 card3.transferCredits(40, card1);
 console.log(card1.getCardOptions());
-console.log(card3.getCardOptions());*/
+console.log(card3.getCardOptions());
 
 
-//  2)
+//  2) Task
 class UserAccount {
   constructor(name) {
     this.name,
@@ -97,6 +100,7 @@ class UserAccount {
   }
 }
 
+// 2) RUN
 /*
 let user = new UserAccount('Bob');
 user.addCard();
