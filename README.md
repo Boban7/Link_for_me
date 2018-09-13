@@ -32,3 +32,9 @@ Link to my homework
      
 10. JS-scope-context:
       https://rawgit.com/Boban7/Link_for_me/master/FE_9_10_homework_scope-context/homework/src/credits_handler.js
+      
+11. DOM:
+      https://rawgit.com/Boban7/fl-9/master/FE_9_11_homework_dom/homework/index.html
+
+12. BOM: 
+      https://rawgit.com/Boban7/fl-9/master/FE_9_12_homework_bom/homework/index.html
